@@ -1,0 +1,11 @@
+---
+title: "The start of my writing"
+author: "Jinjie Duan"
+date: "July 05, 2021" # DO NOT USE Sys.Date()
+output:                    # DO NOT CHANGE
+  prettydoc::html_pretty:  # DO NOT CHANGE
+    theme: cayman          # DO NOT CHANGE
+    highlight: github      # DO NOT CHANGE
+---
+
+Just trying to push myself to start writing here.
